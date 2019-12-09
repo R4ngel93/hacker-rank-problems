@@ -1,3 +1,4 @@
+/* Code solution from https://sites.northwestern.edu/acids/2018/11/12/solution-hackerrank-array-manipulation/ */
 function arrayManipulation(n, queries) {
   /* Variables */
   let myArray = [];
