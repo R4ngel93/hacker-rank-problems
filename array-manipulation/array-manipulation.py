@@ -1,3 +1,5 @@
+#Code solution from https://sites.northwestern.edu/acids/2018/11/12/solution-hackerrank-array-manipulation/
+
 def arrayManipulation(n, queries):
     arr = [0] * n
 
